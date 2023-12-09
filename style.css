@@ -330,6 +330,30 @@ position: absolute;
     #hero-image {
         display: none;
     }
+    .navbar-brand{
+      font-size: 15px;
+    }
+    .navbar-brand span{
+      font-size: 20px;
+    }
+    .hero-section{
+      justify-content: center;
+    }
+    .hero p{
+      font-size: 15px;
+    }
+    .hero h2{
+      font-size: 25px;
+    }
+    .but{
+    justify-content: center; 
+    }
+    .buttons a{
+      font-size: 15px;
+    }
+    .buttons2 a{
+      font-size: 15px;
+    }
 }
 
 
